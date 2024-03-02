@@ -1,16 +1,24 @@
 ### Hi there 👋
+I am Md Tahmid Arefin, a passionate **problem solver** and **software developer**. Nice to meet you!
 
-<!--
-**tahmidarefin/tahmidarefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---  
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=tahmidarefin&color=green)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- I’m currently working on Web Technologies
+- I’m currently learning HTML, CSS & Javascript
+- I’m looking to collaborate with the people in Software Development industry
+
+- Reach me out to me at <tahmidarefin@gmail.com>
+
+**Tools and Technology** 
+- C, C++
+- HTML, CSS & Javascrpt
+- Git & Linux
+
+**Watch me on** [StopStalk (Problem Solving Profile)](https://www.stopstalk.com/user/profile/tahmidarefin)!  
+**Connect with me in** [Linkedin](https://linkedin.com/in/tahmidarefin)!
+<!-- 
+	
 -->
