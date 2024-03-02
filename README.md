@@ -2,6 +2,11 @@
 I am Md Tahmid Arefin, a passionate **problem solver** and **software developer**. Nice to meet you!
 
 ---  
+<style>
+a {
+    text-decoration: none;
+}
+</style>
 
 ![](https://komarev.com/ghpvc/?username=tahmidarefin&color=green)  
 
@@ -17,8 +22,8 @@ I am Md Tahmid Arefin, a passionate **problem solver** and **software developer*
 - HTML, CSS & Javascrpt
 - Git & Linux
 
-**Watch me on** [StopStalk (Problem Solving Profile)](https://www.stopstalk.com/user/profile/tahmidarefin)!  
-**Connect with me in** [Linkedin](https://linkedin.com/in/tahmidarefin)!
+**Watch me on** <a href="https://www.stopstalk.com/user/profile/tahmidarefin">StopStalk</a>!  
+**Connect with me in** <a href="https://linkedin.com/in/tahmidarefin">Linkedin</a>!
 <!-- 
 	
 -->
