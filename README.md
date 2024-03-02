@@ -17,7 +17,7 @@ I am Md Tahmid Arefin, a passionate **problem solver** and **software developer*
 - HTML, CSS & Javascrpt
 - Git & Linux
 
-**Watch me on** [StopStalk (Problem Solving Profile)](https://www.stopstalk.com/user/profile/tahmidarefin)!  
+**Watch my problem-solving activities on** [StopStalk](https://www.stopstalk.com/user/profile/tahmidarefin)!  
 **Connect with me in** [Linkedin](https://linkedin.com/in/tahmidarefin)!
 <!-- 
 	
