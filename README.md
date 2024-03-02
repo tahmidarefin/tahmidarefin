@@ -8,13 +8,13 @@ I am Md Tahmid Arefin, a passionate **problem solver** and **software developer*
 
 - I’m currently working on Web Technologies
 - I’m currently learning HTML, CSS & Javascript
-- I’m looking to collaborate with the people in Software Development industry
+- I’m looking to collaborate with people in the Software Development industry
 
-- Reach me out to me at tahmidarefin@gmail.com
+- Reach out to me at tahmidarefin@gmail.com
 
 **Tools and Technology** 
 - C, C++
-- HTML, CSS & Javascrpt
+- HTML, CSS & Javascript
 - Git & Linux
 
 **Watch my problem-solving activities on** [StopStalk](https://www.stopstalk.com/user/profile/tahmidarefin)!  
