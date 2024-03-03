@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Md Tahmid Arefin, a passionate **problem solver** and **software developer**. Nice to meet you!
+I am Md Tahmid Arefin, an aspiring **problem solver** and **software developer**. Nice to meet you!
 
 ---  
 
